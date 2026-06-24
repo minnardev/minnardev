@@ -32,9 +32,9 @@
 </p>
 🛠️ OS & Tools
 <p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Windows%2520(AtlasOS)-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dwindows%26logoColor%3Dwhite" alt="Windows">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Windows%2520(AtlasOS)-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dwindows%26logoColor%3Dwhite" alt="MacOS">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Visual%2520Studio%25202022-5C2D91%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio%26logoColor%3Dwhite" alt="VS2022">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Visual%2520Studio%25202022-5C2D91%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio%26logoColor%3Dwhite" alt="Visual Studio Code">
 </p>
 📊 GitHub Stats
 <div align="center">
