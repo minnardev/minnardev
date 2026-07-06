@@ -1,9 +1,7 @@
-<!-- Центральный анимированный заголовок приветствия -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hello,+World!;+I'm+MinnarDev;+Frontend+%2B+Backend+Developer" alt="Typing SVG" />
 </div>
 
-<!-- Статусные бейджи фокуса и геолокации -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20Backend-00FF66?style=for-the-badge&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/Location-Tashkent%2C%20UZ-0078D4?style=for-the-badge&logoColor=white" alt="Location">
@@ -25,7 +23,6 @@
 
 ### 🧠 Backend & Scripting
 <p align="left">
-  <!-- Прямые рабочие ссылки на бейджи Shields.io без поискового мусора -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -35,17 +32,14 @@
 
 ### 🎨 Frontend Development
 <p align="left">
-  <!-- Добавлены корректные бейджи для веб-стека и React -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-
 ### 🛠️ OS, Tools & Environment
 <p align="left">
-  <!-- Чистый Windows с официальным логотипом вместо AtlasOS -->
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
   <img src="https://img.shields.io/badge/Arch_Linux-31A8FF?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
@@ -58,16 +52,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Новое сверхстабильное зеркало для общей статистики -->
   <img src="https://github-readme-stats-two.vercel.app/api?username=minnardev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <!-- Новое сверхстабильное зеркало для топ языков -->
   <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=minnardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Твой рабочий Streak, который мы не трогаем -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnardev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
+
 ---
 
 ## 📂 Featured Projects
@@ -76,7 +68,6 @@
 
 ---
 
-<!-- Счетчик просмотров профиля в самом низу -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=minnardev&color=00FF66&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
