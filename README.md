@@ -41,7 +41,7 @@
 ### 🛠️ OS, Tools & Environment
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,arch,git,vscode" alt="OS and Tools" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,arch,git,vscode,vercel" alt="OS and Tools" />
   </a>
 </p>
 
