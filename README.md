@@ -47,25 +47,27 @@
   <!-- Обновлены операционные системы и инструменты разработчика -->
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
   <img src="https://img.shields.io/badge/Arch_Linux-31A8FF?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/Windows_(AtlasOS)-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows AtlasOS">
+  <img src="https://img.shields.io/badge/Windows_(AtlasOS)-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-<!-- Карточки статистики с темы "tokyonight", выровненные в ряд -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minnardev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
-</div>
+<!-- Основная статистика профиля на надежном зеркальном сервере -->
+![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=minnardev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnardev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
+<!-- Топ используемых языков -->
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=minnardev&layout=compact&theme=tokyonight&hide_border=true)
 
+<!-- Статистика активности (Streak) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minnardev&theme=tokyonight&hide_border=true)
+
+---
 ---
 
 ## 📂 Featured Projects
