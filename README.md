@@ -42,32 +42,32 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
+
 ### 🛠️ OS, Tools & Environment
 <p align="left">
-  <!-- Обновлены операционные системы и инструменты разработчика -->
+  <!-- Чистый Windows с официальным логотипом вместо AtlasOS -->
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
   <img src="https://img.shields.io/badge/Arch_Linux-31A8FF?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/Windows_(AtlasOS)-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
-<!-- Основная статистика профиля на надежном зеркальном сервере -->
-![GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=minnardev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+<p align="center">
+  <!-- Новое сверхстабильное зеркало для общей статистики -->
+  <img src="https://github-readme-stats-two.vercel.app/api?username=minnardev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <!-- Новое сверхстабильное зеркало для топ языков -->
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=minnardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+</p>
 
-<!-- Топ используемых языков -->
-![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=minnardev&layout=compact&theme=tokyonight&hide_border=true)
-
-<!-- Статистика активности (Streak) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minnardev&theme=tokyonight&hide_border=true)
-
----
+<p align="center">
+  <!-- Твой рабочий Streak, который мы не трогаем -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnardev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
 ---
 
 ## 📂 Featured Projects
