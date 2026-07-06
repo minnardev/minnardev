@@ -68,6 +68,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=minnardev&color=00FF66&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
