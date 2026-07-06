@@ -57,9 +57,5 @@
 
 ---
 
-## 📂 Featured Projects
 
-* **🎬 YT-VLC Engine (CloudCLI)** — A powerful Python-based platform for searching and listening to music using `yt-dlp` and `VLC player` directly inside your terminal. 🎧⚡
-
----
 
