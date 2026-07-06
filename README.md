@@ -54,13 +54,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-two.vercel.app/api?username=minnardev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=minnardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnardev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnardev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%" />
 </p>
 
 ---
