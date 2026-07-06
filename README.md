@@ -27,7 +27,7 @@
 ### 🧠 Backend & Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  ![SQLite]
+   <img width="9%" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" alt="Python">
 </p>
 
 ### 🎨 Frontend Development
@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-### 🛠️ OS, Tools & Environment
 ### 🛠️ OS, Tools & Environment
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&v=2" alt="Windows">
