@@ -1,10 +1,12 @@
+<!-- Центральный анимированный заголовок -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hello,+World!;+I'm+MinnarDev;+Frontend+%2B+Backend+Developer" alt="Typing SVG" />
 </div>
 
+<!-- Статусные бейджи: Фокус, Локация и ссылка на Сайт -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20Backend-00FF66?style=for-the-badge&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/Location-Tashkent%2C%20UZ-0078D4?style=for-the-badge&logoColor=white" alt="Location">
+  <a href="https://minnar.xyz"><img src="https://img.shields.io/badge/Website-minnar.xyz-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
 ---
@@ -51,10 +53,13 @@
 
 ## 📊 GitHub Stats
 
-
+<p align="center">
+  <img src="https://github-readme-stats-two.vercel.app/api?username=minnardev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=minnardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnardev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnardev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
