@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20Backend-00FF66?style=for-the-badge&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/Location-Tashkent%2C%20UZ-0078D4?style=for-the-badge&logoColor=white" alt="Location">
-  <a href="https://minnar.xyz"><img src="https://img.shields.io/badge/Website-minnar.xyz-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a target=_blank href="https://minnar.xyz"><img src="https://img.shields.io/badge/Website-minnar.xyz-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
 ---
