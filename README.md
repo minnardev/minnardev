@@ -47,15 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minnardev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%" />
-</p>
-
----
 
 
 
