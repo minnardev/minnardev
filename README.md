@@ -22,23 +22,23 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🧠 Backend & Scripting
+### Backend & Scripting
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,sqlite" alt="Backend Skills" />
   </a>
 </p>
 
-### 🎨 Frontend Development
+### Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,c" alt="Frontend Skills" />
   </a>
 </p>
 
-### 🛠️ OS, Tools & Environment
+### OS, Tools & Environment
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,apple,arch,git,vscode,vercel" alt="OS and Tools" />
