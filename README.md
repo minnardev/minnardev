@@ -1,6 +1,6 @@
 <!-- Центральный анимированный заголовок -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hello,+World!;+I'm+MinnarDev;+Frontend+%2B+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hello,+World!;+I'm+MinnarDev;+ Developer" alt="Typing SVG" />
 </div>
 
 <!-- Статусные бейджи: Фокус, Локация и ссылка на Сайт -->
