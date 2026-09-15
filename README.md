@@ -14,11 +14,7 @@
 
 ## ⚡ About Me
 
-* ⏳ **3+ years of self-driven IT experience**, exploring operating systems, security, and script automation.
-* 💻 **Frontend + Backend Developer** — bridging the gap between clean server logic and interactive interfaces.
-* 🐍 **Backend Development** — writing optimized Python logic, core scripts, automation tools, and databases.
-* 🎨 **Frontend Development** — creating smooth, high-fidelity web applications and responsive UIs with React.
-* 🛠️ **Code perfectionist**: dedicated to clean architecture, zero-bug deployment, and optimized speed.
+* ** idk
 
 ---
 
