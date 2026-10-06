@@ -1,9 +1,9 @@
-<!-- Центральный анимированный заголовок -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hello,+World!;+I'm+MinnarDev;" alt="Typing SVG" />
 </div>
 
-<!-- Статусные бейджи -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20Low--Level-00FF66?style=for-the-badge&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/Location-Tashkent%2C%20UZ-0078D4?style=for-the-badge&logoColor=white" alt="Location">
@@ -15,9 +15,9 @@
 ## ⚡ About Me
 
 
-* 🛠 Увлечён низкоуровневой разработкой на **C** и созданием бэкенд-сервисов на **Python**.
-* 🌐 Верстаю интерактивные интерфейсы с использованием **React**, **JS**, **HTML** и **CSS**.
-* 🐧 Активно работаю в Unix-подобных системах и настраиваю окружение под себя.
+* 🛠 I'm passionate about low-level development in **C** and building backend services in **Python**.
+* 🌐 I build interactive interfaces using **React**, **JS**, **HTML**, and **CSS**.
+* 🐧 I work extensively with Unix-like systems and customize my environment to suit my needs.
 
 ---
 
